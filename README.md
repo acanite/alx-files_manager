@@ -1,4 +1,5 @@
 Files Manager
+
 This project is a compilation of back-end concepts: authentication, NodeJS, MongoDB, Redis, pagination and background processing.
 
 The objective is to build a simple platform to upload and view files with:
@@ -22,6 +23,8 @@ Mocha is used in combination with Chai for testing the app.
 
 Mocha & Chai
 ![moca   chai](https://github.com/acanite/alx-files_manager/assets/100510532/b6156dce-ba39-4cde-8f4d-1d5eeb0b2b1a)
+
+
 Authors
 
 Akanni Akeem Olayinka : acanite01@gmail.com
